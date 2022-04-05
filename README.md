@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MA3ST3R
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning DSA and python
+- 👀 I’m interested in data science and software development
+- 🌱 I’m currently learning DSA and python and machine learning
 - 💞️ I’m looking to collaborate on data analysis and management
 - 📫 How to reach me ,this is my gmail adityakumarsingh477.hiti2020@gmail.com
 
